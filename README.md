@@ -12,3 +12,6 @@ Some readers meet some troubles when running the source code. I have just update
 
 https://www.jianshu.com/p/b4128bc79df0
 推荐系统遇上深度学习(二十二)--DeepFM升级版XDeepFM模型强势来袭！
+https://www.jianshu.com/p/3078b3770dc9
+DeepFM算法解析及Python实现
+https://www.cnblogs.com/wkang/tag/CTR/  FM
